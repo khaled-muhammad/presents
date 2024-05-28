@@ -1,0 +1,492 @@
+[
+    {
+        "question": "My father is very ............. He always donates money to many charities.",
+        "choices": [
+            "miserly",
+            "cruel",
+            "generous",
+            "dirty"
+        ],
+        "correct_answer": "generous"
+    },
+    {
+        "question": "Salah's skill provides a ............ model for inspiring young people.",
+        "choices": [
+            "reel",
+            "rule",
+            "role",
+            "roll"
+        ],
+        "correct_answer": "role"
+    },
+    {
+        "question": "People can ............ to the Egyptian Food Bank to help others.",
+        "choices": [
+            "donate",
+            "steal",
+            "support",
+            "call"
+        ],
+        "correct_answer": "donate"
+    },
+    {
+        "question": "High blood pressure is considered a ............ disease.",
+        "choices": [
+            "long-term",
+            "medium-term",
+            "short-term",
+            "first-term"
+        ],
+        "correct_answer": "long-term"
+    },
+    {
+        "question": "It's too cold and I've no ............ to visit anyone.",
+        "choices": [
+            "desire",
+            "identity",
+            "problem",
+            "prestige"
+        ],
+        "correct_answer": "desire"
+    },
+    {
+        "question": "Blood ............ should be measured regularly.",
+        "choices": [
+            "pleasure",
+            "treasure",
+            "pressure",
+            "donation"
+        ],
+        "correct_answer": "pressure"
+    },
+    {
+        "question": "The child with a diseased kidney will have a transplant, but we are waiting for a ................",
+        "choices": [
+            "borer",
+            "mower",
+            "owner",
+            "donor"
+        ],
+        "correct_answer": "donor"
+    },
+    {
+        "question": "Sir Magdi Jacoub's centre for heart in Aswan is famous for heart ............ .",
+        "choices": [
+            "transports",
+            "transplants",
+            "plants",
+            "planets"
+        ],
+        "correct_answer": "transplants"
+    },
+    {
+        "question": "Good education, money and power  give people ............ .",
+        "choices": [
+            "prestige",
+            "hometown",
+            "conservation",
+            "monitor"
+        ],
+        "correct_answer": "prestige"
+    },
+    {
+        "question": "First, you need to be checked carefully before blood ............ to make sure you are healthy.",
+        "choices": [
+            "donate",
+            "donor",
+            "donation",
+            "donated"
+        ],
+        "correct_answer": "donor"
+    },
+    {
+        "question": "He gets much ............ from his brother.",
+        "choices": [
+            "support",
+            "supports",
+            "supporter",
+            "supported"
+        ],
+        "correct_answer": "support"
+    },
+    {
+        "question": "We heard a lion ............ , so we returned quickly to the car.",
+        "choices": [
+            "transplanting",
+            "tracking",
+            "printing",
+            "roaring"
+        ],
+        "correct_answer": "roaring"
+    },
+    {
+        "question": "The driver paid a fine because he was driving at a very high ............ .",
+        "choices": [
+            "support",
+            "speed",
+            "transplant",
+            "prestige"
+        ],
+        "correct_answer": "speed"
+    },
+    {
+        "question": "Iron ............ is the amount of iron stored in the body.",
+        "choices": [
+            "track",
+            "clothes",
+            "tool",
+            "level"
+        ],
+        "correct_answer": "level"
+    },
+    {
+        "question": "To succeed and reach your goal, you need to be very ............ .",
+        "choices": [
+            "intelligent",
+            "intelligence",
+            "stupid",
+            "stupidity"
+        ],
+        "correct_answer": "intelligence"
+    },
+    {
+        "question": "What is the suffix which can be added to form the noun from the verb \"agree\"?",
+        "choices": [
+            "-tion",
+            "-ness",
+            "-ion",
+            "-ment"
+        ],
+        "correct_answer": "-tion"
+    },
+    {
+        "question": "Mohammed Salah's ............ is \"the Happiness Maker\".",
+        "choices": [
+            "surname",
+            "first name",
+            "nickname",
+            "pen name"
+        ],
+        "correct_answer": "nickname"
+    },
+    {
+        "question": "I ............ Aswan in winter as its weather is fantastic then.",
+        "choices": [
+            "hate",
+            "dislike",
+            "admire",
+            "leave"
+        ],
+        "correct_answer": "admire"
+    },
+    {
+        "question": "Eight teams play the quarter ............ of a championship.",
+        "choices": [
+            "rule",
+            "final",
+            "beginning",
+            "role"
+        ],
+        "correct_answer": "final"
+    },
+    {
+        "question": "I have a friend who works in a big company ............ in Kuwait.",
+        "choices": [
+            "laid",
+            "lied",
+            "based",
+            "basis"
+        ],
+        "correct_answer": "based"
+    },
+    {
+        "question": "My parents always ............ me when I do well at school.",
+        "choices": [
+            "praise",
+            "apologise",
+            "bully",
+            "defend"
+        ],
+        "correct_answer": "praise"
+    },
+    {
+        "question": "It's my father's success at basketball that ............ me to play the game.",
+        "choices": [
+            "inspired",
+            "aspired",
+            "conspired",
+            "respire"
+        ],
+        "correct_answer": "inspired"
+    },
+    {
+        "question": "Salah is known as the happiness ............ .",
+        "choices": [
+            "founders",
+            "volunteers",
+            "conservationists",
+            "maker"
+        ],
+        "correct_answer": "maker"
+    },
+    {
+        "question": "Unfortunately, the old man died after a short ............ .",
+        "choices": [
+            "fun",
+            "happiness",
+            "condition",
+            "illness"
+        ],
+        "correct_answer": "illness"
+    },
+    {
+        "question": "It was only later in her life that she found ............ and peace of mind .",
+        "choices": [
+            "happy",
+            "happiness",
+            "sad",
+            "sadness"
+        ],
+        "correct_answer": "happiness"
+    },
+    {
+        "question": "My father spares no efforts in order to ............ me that having a job would give me prestige.",
+        "choices": [
+            "purchase",
+            "insulate",
+            "persuade",
+            "propose"
+        ],
+        "correct_answer": "persuade"
+    },
+    {
+        "question": "Wildlife ............ is necessary to stop species from dying out .",
+        "choices": [
+            "pressure",
+            "livestock",
+            "intelligence",
+            "conservation"
+        ],
+        "correct_answer": "conservation"
+    },
+    {
+        "question": "............. are not paid for the work they do.",
+        "choices": [
+            "Founders",
+            "Volunteers",
+            "Conservationists",
+            "Teenagers"
+        ],
+        "correct_answer": "Volunteers"
+    },
+    {
+        "question": "He ............ all other runners and won the race.",
+        "choices": [
+            "ran past",
+            "researched",
+            "grew up",
+            "reduced"
+        ],
+        "correct_answer": "ran past"
+    },
+    {
+        "question": "His ............ is so low that he has to look for a second job.",
+        "choices": [
+            "compassion",
+            "documentary",
+            "income",
+            "task"
+        ],
+        "correct_answer": "income"
+    },
+    {
+        "question": "I look forward to returning to my ............ of Assuit where I was born and educated.",
+        "choices": [
+            "workplace",
+            "hometown",
+            "track",
+            "support"
+        ],
+        "correct_answer": "hometown"
+    },
+    {
+        "question": "As a striker, you are supposed to ............ goals, not to lose the ball.",
+        "choices": [
+            "miss",
+            "realise",
+            "reach",
+            "score"
+        ],
+        "correct_answer": "score"
+    },
+    {
+        "question": "Tourism ............ national income .",
+        "choices": [
+            "aim",
+            "aims",
+            "benefit",
+            "benefits"
+        ],
+        "correct_answer": "benefits"
+    },
+    {
+        "question": "As a ............ , he has great interest in looking after the environment.",
+        "choices": [
+            "founder",
+            "volunteer",
+            "conservationist",
+            "teenager"
+        ],
+        "correct_answer": "conservationist"
+    },
+    {
+        "question": "I feel ............ for the old and the sick.",
+        "choices": [
+            "compassion",
+            "documentary",
+            "income",
+            "task"
+        ],
+        "correct_answer": "compassion"
+    },
+    {
+        "question": "I think I won't ............ Rokaya. She was a little child when I last saw her 20 years ago.",
+        "choices": [
+            "reduce",
+            "aim",
+            "recognize",
+            "transplant"
+        ],
+        "correct_answer": "recognize"
+    },
+    {
+        "question": "She pays ............ visits to her old grandma in Suez.",
+        "choices": [
+            "safe",
+            "charitable",
+            "regular",
+            "missing"
+        ],
+        "correct_answer": "regular"
+    },
+    {
+        "question": "I will lend you the money even if I know you don't have the ............ to pay it back.",
+        "choices": [
+            "able",
+            "ability",
+            "inability",
+            "disability"
+        ],
+        "correct_answer": "inability"
+    },
+    {
+        "question": "Mr Mohammed gave each student a/an ............ to do.",
+        "choices": [
+            "compassion",
+            "documentary",
+            "income",
+            "task"
+        ],
+        "correct_answer": "task"
+    },
+    {
+        "question": "My uncle is one of the ............ of this charity. They started it in 1998.",
+        "choices": [
+            "founders",
+            "volunteers",
+            "conservationists",
+            "teenagers"
+        ],
+        "correct_answer": "founders"
+    },
+    {
+        "question": "When I ............ , I hope I will be able to help myself and my community.",
+        "choices": [
+            "run past",
+            "research",
+            "grow up",
+            "respect"
+        ],
+        "correct_answer": "respect"
+    },
+    {
+        "question": "A/An ............ is a strong hope or wish.",
+        "choices": [
+            "desire",
+            "track",
+            "will",
+            "ability"
+        ],
+        "correct_answer": "desire"
+    },
+    {
+        "question": "To ............ is to allow some blood or a body organ to be removed from your body so that it can be used in a hospital to help someone who is ill or injured.",
+        "choices": [
+            "reduce",
+            "protect",
+            "score",
+            "donate"
+        ],
+        "correct_answer": "donate"
+    },
+    {
+        "question": "............ means willing to give money, spend time etc., in order to help people or give them pleasure.",
+        "choices": [
+            "Intelligent",
+            "Responsible",
+            "Generous",
+            "Safe"
+        ],
+        "correct_answer": "Generous"
+    },
+    {
+        "question": "............ means continuing for a long period of time, or relating to what will happen in the distant future.",
+        "choices": [
+            "Short-term",
+            "Long-term",
+            "Forever",
+            "For good"
+        ],
+        "correct_answer": "Long-term"
+    },
+    {
+        "question": "A ............ is someone whose behavior, attitudes, etc. people try to copy because they admire them.",
+        "choices": [
+            "donor",
+            "biologist",
+            "roleplay",
+            "role model"
+        ],
+        "correct_answer": "role model"
+    },
+    {
+        "question": "........... is the respect and admiration that someone or something gets because of their success or important position in society.",
+        "choices": [
+            "Prestige",
+            "Generosity",
+            "Support",
+            "Ability"
+        ],
+        "correct_answer": "Prestige"
+    },
+    {
+        "question": "A/An ............ is an official document that people sign to show that they have agreed to something.",
+        "choices": [
+            "admiration",
+            "agreement",
+            "pressure",
+            "donation"
+        ],
+        "correct_answer": "agreement"
+    },
+    {
+        "question": "A ............ means a deep, loud noise made by an animal such as a lion, or by someone's voice.",
+        "choices": [
+            "success",
+            "killing",
+            "roar",
+            "livestock"
+        ],
+        "correct_answer": "roar"
+    }
+]

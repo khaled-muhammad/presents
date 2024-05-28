@@ -1,0 +1,192 @@
+[
+    {
+        "question": "My car always ............ down on the motorway.",
+        "choices": [
+            "is broken",
+            "has broken",
+            "breaks",
+            "was broken"
+        ],
+        "correct_answer": "breaks"
+    },
+    {
+        "question": "I think the next train to Aswan ............ at 10 a.m.",
+        "choices": [
+            "will leave",
+            "leaves",
+            "is leaving",
+            "left"
+        ],
+        "correct_answer": "will leave"
+    },
+    {
+        "question": "One of the Egyptian scientists ............ awarded the Nobel Prize in 2010.",
+        "choices": [
+            "was",
+            "has been",
+            "were",
+            "had been"
+        ],
+        "correct_answer": "has been"
+    },
+    {
+        "question": "When I was in Sharm El-Sheik, I ............ to the beach a lot.",
+        "choices": [
+            "have gone",
+            "was going",
+            "would go",
+            "went"
+        ],
+        "correct_answer": "went"
+    },
+    {
+        "question": "Yesterday, we ............ some beautiful fish in the Red Sea.",
+        "choices": [
+            "saw",
+            "were seeing",
+            "see",
+            "have seen"
+        ],
+        "correct_answer": "saw"
+    },
+    {
+        "question": "Nesma ............ late when she was young. She no longer does now.",
+        "choices": [
+            "usually sleeps",
+            "c.used to sleep",
+            "b.is used to sleeping",
+            "d.was usually slept"
+        ],
+        "correct_answer": "c.used to sleep"
+    },
+    {
+        "question": "My sister usually ............ to school when she was young.",
+        "choices": [
+            "walks",
+            "was walking",
+            "walked",
+            "has walked"
+        ],
+        "correct_answer": "walked"
+    },
+    {
+        "question": "Money ............ into our country by tourists who come to enjoy our civilization.",
+        "choices": [
+            "is brought",
+            "has brought",
+            "are brought",
+            "is bringing"
+        ],
+        "correct_answer": "is brought"
+    },
+    {
+        "question": "Every day, my room ............ while I'm at school.",
+        "choices": [
+            "was tidied",
+            "is tidied",
+            "tidied",
+            "was being tidied"
+        ],
+        "correct_answer": "is tidied"
+    },
+    {
+        "question": "When he went on holiday, he always ............ a lot of photos .",
+        "choices": [
+            "takes",
+            "have taken",
+            "took",
+            "has taken"
+        ],
+        "correct_answer": "took"
+    },
+    {
+        "question": "He committed the crime and ............ away.",
+        "choices": [
+            "runs",
+            "ran",
+            "run",
+            "running"
+        ],
+        "correct_answer": "ran"
+    },
+    {
+        "question": "Tamer ............ meals outdoors .",
+        "choices": [
+            "hasn't",
+            "never has",
+            "has ever",
+            "isn't had"
+        ],
+        "correct_answer": "hasn't"
+    },
+    {
+        "question": "Now, Salah ............ as a role model for all young Egyptians.",
+        "choices": [
+            "is being known",
+            "is known",
+            "knows",
+            "known"
+        ],
+        "correct_answer": "is known"
+    },
+    {
+        "question": "How much time ............ on social media?",
+        "choices": [
+            "are spending",
+            "you spend",
+            "is spent",
+            "spent"
+        ],
+        "correct_answer": "is spent"
+    },
+    {
+        "question": "He ............ hard work on the farm.",
+        "choices": [
+            "used to",
+            "were used to",
+            "got used to",
+            "didn't use to"
+        ],
+        "correct_answer": "used to"
+    },
+    {
+        "question": "My friend used to get high marks but now he ............ .",
+        "choices": [
+            "don't",
+            "doesn't",
+            "didn't",
+            "isn't"
+        ],
+        "correct_answer": "doesn't"
+    },
+    {
+        "question": "He ............ at the club yesterday.",
+        "choices": [
+            "isn't seen",
+            "wasn't seen",
+            "didn't see",
+            "doesn't see"
+        ],
+        "correct_answer": "wasn't seen"
+    },
+    {
+        "question": "Do as you ............ and don't ask questions .",
+        "choices": [
+            "tell",
+            "are told",
+            "are telling",
+            "being told"
+        ],
+        "correct_answer": "are told"
+    },
+    {
+        "question": "Never ............ to school late. He is so punctual.",
+        "choices": [
+            "he comes",
+            "comes he",
+            "does he come",
+            "is he come"
+        ],
+        "correct_answer": "he comes"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "type": "comprehension",
+    "data": {
+        "passage": "Electric cars are becoming increasingly popular as a sustainable alternative to traditional gasoline vehicles. These vehicles use electric motors powered by rechargeable batteries, producing zero tailpipe emissions. The environmental benefits, coupled with advancements in battery technology, have contributed to the growing adoption of electric cars worldwide.",
+        "mcq": [
+            {
+                "question": "What powers electric cars?",
+                "choices": ["Gasoline", "Solar energy", "Electric motors", "Hydrogen fuel cells"],
+                "answer": "Electric motors"
+            },
+            {
+                "question": "What is a key environmental benefit of electric cars mentioned in the passage?",
+                "choices": ["Reduced noise pollution", "Zero tailpipe emissions", "Increased air pollution", "High fuel consumption"],
+                "answer": "Zero tailpipe emissions"
+            }
+        ],
+        "open_ended": [
+            {
+                "question": "Explain one factor contributing to the growing popularity of electric cars.",
+                "answer": "The advancements in battery technology have made electric cars more practical and increased their overall range, making them a more viable option for consumers."
+            },
+            {
+                "question": "What challenges do you think electric cars might face in the future?",
+                "answer": "Potential challenges for electric cars may include the need for further infrastructure development, such as charging stations, and addressing concerns about the environmental impact of battery production and disposal."
+            }
+        ]
+    }
+}

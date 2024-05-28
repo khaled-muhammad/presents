@@ -1,0 +1,47 @@
+{
+    "type": "translation",
+    "data": [
+        {
+            "from": "how to run?",
+            "to": [
+                "كيف تجري؟",
+                "كيف تلعب",
+                "كيف تنام",
+                "كيف تقفز؟"
+            ]
+        },
+        {
+            "from": "My dog is cute."
+        },
+        {
+            "from": "ما اسمك؟",
+            "to": [
+                "How old are you?",
+                "What about your mom?",
+                "What's your name?",
+                "How to count from 1 to 10?"
+            ]
+        },
+        {
+            "from": "I love to travel.",
+            "to": [
+                "أحب السفر.",
+                "أعشق الرحيل.",
+                "أهوى استكشاف الأماكن.",
+                "السفر يمنحني فرصة لاكتشاف."
+            ]
+        },
+        {
+            "from": "Where is the nearest restaurant?"
+        },
+        {
+            "from": "كم عمرك؟",
+            "to": [
+                "What's your age?",
+                "How old are you?",
+                "Can you tell me your age?",
+                "How many years have you lived?"
+            ]
+        }
+    ]
+}

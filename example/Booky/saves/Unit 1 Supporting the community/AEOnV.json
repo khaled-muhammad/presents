@@ -1,0 +1,102 @@
+[
+    {
+        "question": "All Egyptians ............ Salah for his skill and generosity.",
+        "choices": [
+            "inquire",
+            "admire",
+            "derive",
+            "role play"
+        ],
+        "correct_answer": "admire"
+    },
+    {
+        "question": "The Egyptian ............ in London welcomed and supported the Egyptian handball team.",
+        "choices": [
+            "Frequency",
+            "stadium",
+            "Maasai",
+            "community"
+        ],
+        "correct_answer": "community"
+    },
+    {
+        "question": "Which of the following is correct?",
+        "choices": [
+            "A society",
+            "A community",
+            "A society",
+            "A community"
+        ],
+        "correct_answer": "A society"
+    },
+    {
+        "question": "We all know that water ............ has become a must.",
+        "choices": [
+            "wasting",
+            "donating",
+            "conservation",
+            "support"
+        ],
+        "correct_answer": "conservation"
+    },
+    {
+        "question": "Although he is rich, he works hard to ............ his desire for success.",
+        "choices": [
+            "satisfy",
+            "donate",
+            "conserve",
+            "monitor"
+        ],
+        "correct_answer": "satisfy"
+    },
+    {
+        "question": "When we do not know who paid the money, we say it is a ........... . donation.",
+        "choices": [
+            "antonym",
+            "synonym",
+            "synonymous",
+            "anonymous"
+        ],
+        "correct_answer": "anonymous"
+    },
+    {
+        "question": "All fans cheered Ip when the players ............ the field .",
+        "choices": [
+            "ploughed",
+            "took",
+            "lost",
+            "missed"
+        ],
+        "correct_answer": "took"
+    },
+    {
+        "question": "The livestock on this farm ............ looked after by three workers.",
+        "choices": [
+            "is",
+            "are",
+            "is or are",
+            "has"
+        ],
+        "correct_answer": "is or are"
+    },
+    {
+        "question": "The cattle on this farm ............ looked after by three workers.",
+        "choices": [
+            "is",
+            "are",
+            "is or are",
+            "has"
+        ],
+        "correct_answer": "are"
+    },
+    {
+        "question": "In the ............ , eating too much food causes overweight.",
+        "choices": [
+            "long term",
+            "field",
+            "hometown",
+            "desire"
+        ],
+        "correct_answer": "long term"
+    }
+]

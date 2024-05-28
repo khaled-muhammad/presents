@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is ur name?",
+        "choices": [
+            "Aasem",
+            "Sarah",
+            "Muhammad",
+            "Khaled"
+        ],
+        "correct_answer": "Khaled"
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "correct_answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choices": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correct_answer": "Mars"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "choices": [
+            "Harper Lee",
+            "J.K. Rowling",
+            "Ernest Hemingway",
+            "Mark Twain"
+        ],
+        "correct_answer": "Harper Lee"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "choices": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correct_answer": "Pacific Ocean"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "choices": [
+            "Oxygen",
+            "Gold",
+            "Osmium",
+            "Silver"
+        ],
+        "correct_answer": "Oxygen"
+    },
+    {
+        "question": "In what year did the Titanic sink?",
+        "choices": [
+            "1905",
+            "1912",
+            "1918",
+            "1923"
+        ],
+        "correct_answer": "1912"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "choices": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "correct_answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "5"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "choices": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Platinum"
+        ],
+        "correct_answer": "Diamond"
+    },
+    {
+        "question": "Which country is home to the kangaroo?",
+        "choices": [
+            "India",
+            "Australia",
+            "South Africa",
+            "Brazil"
+        ],
+        "correct_answer": "Australia"
+    }
+]

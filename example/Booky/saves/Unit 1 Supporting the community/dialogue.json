@@ -1,0 +1,42 @@
+{
+    "type": "dialogue",
+    "about": "Tamer and Ali are talking about the release of Extraction 2 movie.",
+    "conversation": [
+        {
+            "speaker": "Tamer",
+            "utterance": ".................................................................. ?"
+        },
+        {
+            "speaker": "Ali",
+            "utterance": "Yes, I have! I loved the first one. When is Extraction 2 coming out?"
+        },
+        {
+            "speaker": "Tamer",
+            "utterance": "It's set to be released next month. I heard they've got some amazing action sequences planned."
+        },
+        {
+            "speaker": "Ali",
+            "utterance": ".................................................................... ?"
+        },
+        {
+            "speaker": "Tamer",
+            "utterance": "Absolutely! Chris is back as Tyler Rake. I can't wait to see how the story unfolds."
+        },
+        {
+            "speaker": "Ali",
+            "utterance": "Me too! Do you think it'll be as intense as the first one?"
+        },
+        {
+            "speaker": "Tamer",
+            "utterance": "..................................................................... ."
+        },
+        {
+            "speaker": "Ali",
+            "utterance": "Awesome! Let's plan to watch it together when it's out."
+        },
+        {
+            "speaker": "Tamer",
+            "utterance": "......................................................... !"
+        }
+    ]
+}

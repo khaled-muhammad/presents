@@ -1,0 +1,310 @@
+[
+    {
+        "question": "My son ............ football and tennis in the club.",
+        "choices": [
+            "play",
+            "plays",
+            "is played",
+            "are played"
+        ],
+        "correct_answer": "plays"
+    },
+    {
+        "question": "My sons ............ football and tennis in the club.",
+        "choices": [
+            "play",
+            "plays",
+            "is played",
+            "are played"
+        ],
+        "correct_answer": "are played"
+    },
+    {
+        "question": "Football and tennis ............ in the club.",
+        "choices": [
+            "play",
+            "plays",
+            "is played",
+            "are played"
+        ],
+        "correct_answer": "are played"
+    },
+    {
+        "question": "Football ............ in the club.",
+        "choices": [
+            "play",
+            "plays",
+            "is played",
+            "are played"
+        ],
+        "correct_answer": "plays"
+    },
+    {
+        "question": "These trees ............ their leaves in autumn.",
+        "choices": [
+            "isn't lost",
+            "don't lose",
+            "doesn't lose",
+            "aren't lost"
+        ],
+        "correct_answer": "don't lose"
+    },
+    {
+        "question": "This tree ............ its leaves in autumn.",
+        "choices": [
+            "isn't lost",
+            "don't lose",
+            "doesn't lose",
+            "aren't lost"
+        ],
+        "correct_answer": "doesn't lose"
+    },
+    {
+        "question": "The leaves of this tree ............ in autumn.",
+        "choices": [
+            "isn't lost",
+            "don't lose",
+            "doesn't lose",
+            "aren't lost"
+        ],
+        "correct_answer": "aren't lost"
+    },
+    {
+        "question": "This tree ............ its leaves in autumn.",
+        "choices": [
+            "never loses",
+            "don't lose",
+            "never lose",
+            "aren't lost"
+        ],
+        "correct_answer": "never loses"
+    },
+    {
+        "question": "Does Amir ............ your birthday parties?",
+        "choices": [
+            "attend",
+            "attends",
+            "is attended",
+            "attending"
+        ],
+        "correct_answer": "attends"
+    },
+    {
+        "question": "............ you with your homework?",
+        "choices": [
+            "Anyone helps",
+            "Is anyone helped",
+            "Does anyone help",
+            "Anyone is helped"
+        ],
+        "correct_answer": "Does anyone help"
+    },
+    {
+        "question": "........... with your homework?",
+        "choices": [
+            "You help",
+            "Do you help",
+            "You are helped",
+            "Are you helped"
+        ],
+        "correct_answer": "Do you help"
+    },
+    {
+        "question": "We ............ a nice time by the sea.",
+        "choices": [
+            "are had",
+            "have",
+            "are spent",
+            "is spent"
+        ],
+        "correct_answer": "have"
+    },
+    {
+        "question": "A nice time ............ by the sea.",
+        "choices": [
+            "are had",
+            "have",
+            "are spent",
+            "is spent"
+        ],
+        "correct_answer": "is spent"
+    },
+    {
+        "question": "Ali ............ at home right now. He's at school.",
+        "choices": [
+            "is",
+            "doesn't be",
+            "isn't",
+            "has"
+        ],
+        "correct_answer": "isn't"
+    },
+    {
+        "question": "A: ............ at home right now? B: No, he's at school.",
+        "choices": [
+            "Is Ali",
+            "Does Ali be",
+            "Ali is",
+            "Does Ali have"
+        ],
+        "correct_answer": "Is Ali"
+    },
+    {
+        "question": "We ............ lunch before my father returns home.",
+        "choices": [
+            "haven't",
+            "don't have",
+            "aren't",
+            "don't be"
+        ],
+        "correct_answer": "don't have"
+    },
+    {
+        "question": "............. lunch before your father returns home?",
+        "choices": [
+            "You have",
+            "Have you",
+            "Are you",
+            "Do you have"
+        ],
+        "correct_answer": "Have you"
+    },
+    {
+        "question": "Lions ............ meat.",
+        "choices": [
+            "eats",
+            "eat",
+            "don't eat",
+            "are eaten"
+        ],
+        "correct_answer": "eat"
+    },
+    {
+        "question": "Lions ............ grass.",
+        "choices": [
+            "eats",
+            "eat",
+            "don't eat",
+            "are eaten"
+        ],
+        "correct_answer": "are eaten"
+    },
+    {
+        "question": "This soup ............ very good.",
+        "choices": [
+            "tastes",
+            "taste",
+            "is tasting",
+            "to taste"
+        ],
+        "correct_answer": "tastes"
+    },
+    {
+        "question": "My father ............ in a big company. He is an accountant there.",
+        "choices": [
+            "works",
+            "work",
+            "is working",
+            "is worked"
+        ],
+        "correct_answer": "works"
+    },
+    {
+        "question": "After I ............ my lunch, I will take a short rest.",
+        "choices": [
+            "will have",
+            "have",
+            "had",
+            "had had"
+        ],
+        "correct_answer": "have"
+    },
+    {
+        "question": "I will take a taxi if I ............ up late.",
+        "choices": [
+            "will get",
+            "had got",
+            "got",
+            "get"
+        ],
+        "correct_answer": "get"
+    },
+    {
+        "question": "She 'll help you as soon as she ............ her work.",
+        "choices": [
+            "will finish",
+            "finish",
+            "finishes",
+            "have finished"
+        ],
+        "correct_answer": "finishes"
+    },
+    {
+        "question": "According to the timetable, the train ............ the station at seven.",
+        "choices": [
+            "will reach",
+            "had reached",
+            "reach",
+            "reaches"
+        ],
+        "correct_answer": "reaches"
+    },
+    {
+        "question": "My father works as a doctor. He ............ very busy examining patients.",
+        "choices": [
+            "often is",
+            "is often",
+            "often has",
+            "has often"
+        ],
+        "correct_answer": "is often"
+    },
+    {
+        "question": "Leen ............ something to do. She is very busy.",
+        "choices": [
+            "always have",
+            "have always",
+            "always has",
+            "has always"
+        ],
+        "correct_answer": "has always"
+    },
+    {
+        "question": "I visit my grandparents ............ month, in the beginning and in the middle.",
+        "choices": [
+            "twice",
+            "once",
+            "once a",
+            "twice a"
+        ],
+        "correct_answer": "once a"
+    },
+    {
+        "question": "Sama is used ............ in Aswan.",
+        "choices": [
+            "to living",
+            "alive",
+            "to live",
+            "living"
+        ],
+        "correct_answer": "living"
+    },
+    {
+        "question": "It is Omar's habit ............ for walks on Fridays.",
+        "choices": [
+            "going",
+            "to going",
+            "to go",
+            "goes"
+        ]
+    },
+    {
+        "question": "Hussein ............ working on the farm.",
+        "choices": [
+            "is used",
+            "is used to",
+            "used to",
+            "used"
+        ]
+    }
+]

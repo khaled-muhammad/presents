@@ -1,0 +1,79 @@
+[
+    {
+        "question": "We can say someone makes ............ .",
+        "choices": [
+            "blood",
+            "movements",
+            "missing",
+            "friends",
+            "nothing to do"
+        ],
+        "correct_answer": "friends"
+    },
+    {
+        "question": "You can do ............ .",
+        "choices": [
+            "work",
+            "mistakes",
+            "research",
+            "movements",
+            "decisions"
+        ],
+        "correct_answer": "decisions"
+    },
+    {
+        "question": "Suddenly, Ahmed disappeared in the forest. The synonyms of the word \"disappear\" are ............ .",
+        "choices": [
+            "refrain",
+            "remain",
+            "vanish",
+            "operate",
+            "hide"
+        ],
+        "correct_answer": "vanish"
+    },
+    {
+        "question": "\"We have an outdoor camera to monitor the street outside.\" The verb 'monitor' in this sentence means ............ .",
+        "choices": [
+            "watch",
+            "give",
+            "observe",
+            "look",
+            "wish"
+        ],
+        "correct_answer": "watch"
+    },
+    {
+        "question": "She is expert ............ cooking recipes.",
+        "choices": [
+            "of",
+            "in",
+            "for",
+            "on",
+            "to"
+        ],
+        "correct_answer": "in"
+    },
+    {
+        "question": "\"We don't allow hunting parties to kill animals.\" The word 'parties' here can be replaced by ............ .",
+        "choices": [
+            "teams",
+            "festivals",
+            "occasions",
+            "groups",
+            "animals"
+        ],
+        "correct_answer": "groups"
+    },
+    {
+        "question": "'Wild' is antonymous with ............ .",
+        "choices": [
+            "well-known",
+            "serious",
+            "violent",
+            "tame",
+            "domestic"
+        ],
+        "correct_answer": "tame"
+    }
+]

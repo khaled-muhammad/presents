@@ -1,0 +1,251 @@
+[
+    {
+        "type": "5choices",
+        "data": [
+            {
+                "question": "\"He donated some blood\". The word \"donated\" is antonymous with ...",
+                "choices": [
+                    "kept",
+                    "received",
+                    "gave",
+                    "admired",
+                    "sold"
+                ],
+                "correct_answer": "kept"
+            },
+            {
+                "question": "I ............ this man for his bravery and strong will.",
+                "choices": [
+                    "press",
+                    "admire",
+                    "donate",
+                    "collect",
+                    "praise"
+                ],
+                "correct_answer": "admire"
+            }
+        ]
+    },
+    {
+        "type": "choices",
+        "data": [
+            {
+                "question": "My sister's really ............ . She's always buying things for her friends.",
+                "choices": [
+                    "furious",
+                    "brave",
+                    "generous",
+                    "frustrated"
+                ],
+                "correct_answer": "generous"
+            },
+            {
+                "question": "The Egyptian ............ in Cameron welcomed our team in the African cup.",
+                "choices": [
+                    "peoples",
+                    "president",
+                    "community",
+                    "society"
+                ],
+                "correct_answer": "society"
+            },
+            {
+                "question": "Mohamed Salah is a role ............ to millions of young people around the world.",
+                "choices": [
+                    "example",
+                    "module",
+                    "model",
+                    "figure"
+                ],
+                "correct_answer": "model"
+            },
+            {
+                "question": "To ............ your progress, record each day's results.",
+                "choices": [
+                    "move",
+                    "monitor",
+                    "wish",
+                    "rationalize"
+                ],
+                "correct_answer": "monitor"
+            },
+            {
+                "question": "Magdy ............ to the library twice a week.",
+                "choices": [
+                    "usually goes",
+                    "goes usually",
+                    "usually go",
+                    "go usually"
+                ],
+                "correct_answer": "usually goes"
+            },
+            {
+                "question": "My uncle ............ in 1970.",
+                "choices": [
+                    "born",
+                    "was born",
+                    "bear",
+                    "bears"
+                ],
+                "correct_answer": "was born"
+            },
+            {
+                "question": "Leen has a cousin ............ Kenzy.",
+                "choices": [
+                    "called",
+                    "was called",
+                    "calling",
+                    "is called"
+                ],
+                "correct_answer": "is called"
+            },
+            {
+                "question": "My grandfather always ............ to work when he was young.",
+                "choices": [
+                    "walked",
+                    "walks",
+                    "is walking",
+                    "was walking"
+                ],
+                "correct_answer": "walked"
+            },
+            {
+                "question": "Smart cards ............ everywhere nowadays.",
+                "choices": [
+                    "use",
+                    "uses",
+                    "are using",
+                    "are used"
+                ],
+                "correct_answer": "are used"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "about": "Tamer and Ali are talking about the release of Extraction 2 movie.",
+        "conversation": [
+            {
+                "speaker": "Tamer",
+                "utterance": ".................................................................. ?"
+            },
+            {
+                "speaker": "Ali",
+                "utterance": "Yes, I have! I loved the first one. When is Extraction 2 coming out?"
+            },
+            {
+                "speaker": "Tamer",
+                "utterance": "It's set to be released next month. I heard they've got some amazing action sequences planned."
+            },
+            {
+                "speaker": "Ali",
+                "utterance": ".................................................................... ?"
+            },
+            {
+                "speaker": "Tamer",
+                "utterance": "Absolutely! Chris is back as Tyler Rake. I can't wait to see how the story unfolds."
+            },
+            {
+                "speaker": "Ali",
+                "utterance": "Me too! Do you think it'll be as intense as the first one?"
+            },
+            {
+                "speaker": "Tamer",
+                "utterance": "..................................................................... ."
+            },
+            {
+                "speaker": "Ali",
+                "utterance": "Awesome! Let's plan to watch it together when it's out."
+            },
+            {
+                "speaker": "Tamer",
+                "utterance": "......................................................... !"
+            }
+        ]
+    },
+    {
+        "type": "comprehension",
+        "data": {
+            "passage": ["Electric cars are becoming increasingly popular as a sustainable alternative to traditional gasoline vehicles. ^^These vehicles^^ use electric motors powered by rechargeable batteries, producing zero tailpipe emissions. The environmental benefits, coupled with advancements in battery technology, have contributed to the growing adoption of electric cars worldwide."],
+            "mcq": [
+                {
+                    "question": "What powers electric cars?",
+                    "choices": [
+                        "Gasoline",
+                        "Solar energy",
+                        "Electric motors",
+                        "Hydrogen fuel cells"
+                    ],
+                    "answer": "Electric motors"
+                },
+                {
+                    "question": "What is a key environmental benefit of electric cars mentioned in the passage?",
+                    "choices": [
+                        "Reduced noise pollution",
+                        "Zero tailpipe emissions",
+                        "Increased air pollution",
+                        "High fuel consumption"
+                    ],
+                    "answer": "Zero tailpipe emissions"
+                }
+            ],
+            "open_ended": [
+                {
+                    "question": "Explain one factor contributing to the growing popularity of electric cars.",
+                    "answer": "The advancements in battery technology have made electric cars more practical and increased their overall range, making them a more viable option for consumers."
+                },
+                {
+                    "question": "What challenges do you think electric cars might face in the future?",
+                    "answer": "Potential challenges for electric cars may include the need for further infrastructure development, such as charging stations, and addressing concerns about the environmental impact of battery production and disposal."
+                }
+            ]
+        }
+    },
+    {
+        "type": "translation",
+        "data": [
+            {
+                "from": "how to run?",
+                "to": [
+                    "كيف تجري؟",
+                    "كيف تلعب",
+                    "كيف تنام",
+                    "كيف تقفز؟"
+                ]
+            },
+            {
+                "from": "I love to travel.",
+                "to": [
+                    "أحب السفر.",
+                    "أعشق الرحيل.",
+                    "أهوى استكشاف الأماكن.",
+                    "السفر يمنحني فرصة لاكتشاف."
+                ]
+            },
+            {
+                "from": "ما اسمك؟",
+                "to": [
+                    "How old are you?",
+                    "What about your mom?",
+                    "What's your name?",
+                    "How to count from 1 to 10?"
+                ]
+            },
+            {
+                "from": "كم عمرك؟",
+                "to": [
+                    "What's your age?",
+                    "How old are you?",
+                    "Can you tell me your age?",
+                    "How many years have you lived?"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "writing",
+        "kind": "essay",
+        "title": "How to develop your community?",
+        "lines": 16
+    }
+]

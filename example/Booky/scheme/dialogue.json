@@ -1,0 +1,14 @@
+{
+    "type": "dialogue",
+    "about": "",
+    "conversation": [
+        {
+            "speaker": "Person 1",
+            "utterance": "How are you?"
+        },
+        {
+            "speaker": "Person 2",
+            "utterance": "........................... ."
+        }
+    ]
+}

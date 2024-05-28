@@ -1,0 +1,134 @@
+[
+    {
+        "question": "Sometimes, doctors ask us to check ............ .",
+        "choices": [
+            "blood pressure",
+            "research",
+            "an impact",
+            "iron level",
+            "a nickname"
+        ],
+        "correct_answer": "blood pressure"
+    },
+    {
+        "question": "When there's an accident, it is important that some people ............ blood.",
+        "choices": [
+            "go",
+            "give",
+            "do",
+            "leave",
+            "donate"
+        ],
+        "correct_answer": "donate"
+    },
+    {
+        "question": "The verb ' ............ ' collocates with the noun 'work'.",
+        "choices": [
+            "give",
+            "make",
+            "do",
+            "go",
+            "talk"
+        ],
+        "correct_answer": "do"
+    },
+    {
+        "question": "He has ............ to succeed in the next exam.",
+        "choices": [
+            "a title",
+            "sure",
+            "a desire",
+            "a nickname",
+            "the ability"
+        ],
+        "correct_answer": "sure"
+    },
+    {
+        "question": "My sister's success ............ us to do our best.",
+        "choices": [
+            "decreased",
+            "encouraged",
+            "inspired",
+            "discouraged",
+            "informed"
+        ],
+        "correct_answer": "inspired"
+    },
+    {
+        "question": "He donated money to build a school. The synonyms of the word \"donated\" are ............ .",
+        "choices": [
+            "grew",
+            "gave",
+            "received",
+            "kept",
+            "supplied"
+        ],
+        "correct_answer": "gave"
+    },
+    {
+        "question": "He has a desire to help other people. The synonyms of the word \"desire\" are ............ .",
+        "choices": [
+            "link",
+            "wish",
+            "debt",
+            "preference",
+            "donation"
+        ],
+        "correct_answer": "wish"
+    },
+    {
+        "question": "\"I admire your idea.\" In this sentence, \"admire\" is a synonym of ............ .",
+        "choices": [
+            "praise",
+            "belong to",
+            "disapprove",
+            "appreciate",
+            "prove"
+        ],
+        "correct_answer": "praise"
+    },
+    {
+        "question": "To be generous is a good quality. The antonyms of the word 'generous' are ............ .",
+        "choices": [
+            "stingy",
+            "kind",
+            "cheerful",
+            "selfish",
+            "disappointed"
+        ],
+        "correct_answer": "stingy"
+    },
+    {
+        "question": "\"I am ............ for my lost keys. I don't know where they are.\" Which of the following verbs can be used in the space to make sense?~~~",
+        "choices": [
+            "donating",
+            "looking",
+            "giving",
+            "preserving",
+            "searching"
+        ],
+        "correct_answer": "looking"
+    },
+    {
+        "question": "It is kind of you to donate money ............ the poor.",
+        "choices": [
+            "with",
+            "in",
+            "to",
+            "from",
+            "for"
+        ],
+        "correct_answer": "from"
+    },
+    {
+        "question": "My mother taught me ............ depend on myself.",
+        "choices": [
+            "to",
+            "how",
+            "how to",
+            "what",
+            "what to"
+        ],
+        "correct_answer": "how to"
+    }
+]

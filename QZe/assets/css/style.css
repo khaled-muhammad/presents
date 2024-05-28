@@ -1,0 +1,525 @@
+@page {
+    size: A4 portrait;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 135px;
+    margin-bottom: 100px;
+
+    @top-left {
+        content: element(header);
+        width: 100%;
+    }
+
+    @bottom-left {
+        content: element(footer);
+        width: 100%;
+    }
+}
+
+* {
+    margin: 0;
+    /*counter(page)*/
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {}
+
+.padding {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+header {
+    position: running(header);
+    overflow: hidden;
+    /*height: 100px;*/
+}
+
+header .headerContainer {
+    position: relative;
+    /*padding: 7px;*/
+    border-bottom: ridge #CB8E6F 3px;
+    border-radius: 15px;
+}
+
+.UnitName {
+    margin-right: 10px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 20pt;
+    font-family: 'Cunia';
+}
+
+.UnitName .FirstChar {
+    display: inline-block;
+    background-color: #FB7959;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: white;
+    position: relative;
+    bottom: 5px;
+    margin-right: 7px;
+    text-align: center;
+    transform: rotate(-40deg);
+    box-shadow: rgba(0, 0, 0, 0.253) 0px 5px 5px;
+    font-size: 160%;
+}
+
+.UnitName .FirstChar p {
+    position: relative;
+    top: 4px;
+}
+
+.UnitName .remChars {
+    display: inline-block;
+}
+
+.absoluter {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    position: running(footer);
+    overflow: hidden;
+    /*height: 100px;*/
+}
+
+.setPageNumber:before {
+    content: counter(page);
+}
+
+.Title {
+    position: relative;
+    width: 275.5px;
+    height: 110.5px;
+    margin: 0 auto;
+}
+
+.Title .tT {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    /*font-size: 32pt;*/
+    font-family: 'Do Hyeon';
+    color: white;
+    width: 178px;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+
+.Title .iconBox {
+    position: absolute;
+    top: 40%;
+    left: 85.4%;
+    transform: translate(-50%, -50%);
+    color: #FB7959;
+}
+
+.icoTitle {
+    font-size: 25pt;
+}
+
+.subTitleP {
+    position: relative;
+    background: linear-gradient(60deg, #cb356b, #bd3f32);
+    border-radius: 10px;
+    border: solid #eb67a0 1px;
+    display: inline-block;
+    width: min-content;
+    min-width: 150px;
+}
+
+.subTitle {
+    font-family: 'Mochiy Pop One';
+    display: inline-block;
+    padding: 2px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: black 0px 0px 5px;
+    border: solid #fff 1px;
+    min-width: 150px;
+    text-align: center;
+}
+
+.oTitle {
+    display: inline-block;
+    font-size: 20pt;
+    background-color: #EDD68C;
+    border-radius: 7px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-family: 'Palanquin';
+    margin-left: 15px;
+    box-shadow: rgba(60, 60, 60, 0.253) 0px 3px 5px;
+}
+
+.oTitle .rLettersC {
+    line-height: 37px;
+    margin-left: 14px;
+    color: white;
+    font-weight: bold;
+}
+
+.oTitle .fLetter {
+    position: absolute;
+    top: -5px;
+    left: -17px;
+    text-transform: uppercase;
+    font-size: 35pt;
+    transform: rotate(-30deg);
+    color: #F87A55;
+    font-family: 'Akaya Kanadaka';
+    /*-webkit-text-stroke: 2px black;*/
+    text-shadow: 1px 1px 0 white,
+        -1px 1px 0 white,
+        1px -1px 0 white,
+        -1px -1px 0 white,
+        0px 1px 0 white,
+        0px -1px 0 white,
+        -1px 0px 0 white,
+        1px 0px 0 white,
+        2px 2px 0 white,
+        -2px 2px 0 white,
+        2px -2px 0 white,
+        -2px -2px 0 white,
+        0px 2px 0 white,
+        0px -2px 0 white,
+        -2px 0px 0 white,
+        2px 0px 0 white,
+        1px 2px 0 white,
+        -1px 2px 0 white,
+        1px -2px 0 white,
+        -1px -2px 0 white,
+        2px 1px 0 white,
+        -2px 1px 0 white,
+        2px -1px 0 white,
+        -2px -1px 0 white,
+        3px 3px black;
+}
+
+.arabicMiniTitle {
+    font-family: 'Almarai';
+    font-size: 25px;
+    background-color: #FEDBC1;
+    border-bottom: solid 4px #A74441;
+    border-right: solid 2px #A74441;
+    border-radius: 25px 0px 35px 0px;
+    padding-left: 60px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    display: inline-block;
+}
+
+.boxedText {
+    display: inline-block;
+    margin: 10px;
+    padding: 15px;
+    border: solid #3BA58B 2px;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-color: rgba(255, 255, 255, 0.466);
+    box-shadow: rgba(0, 0, 0, 0.164) 2px 7px 10px;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+
+.table {
+    margin: 10px;
+    overflow: hidden;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.233) 0px 0px 15px;
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td,
+#customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#customers tr:hover {
+    background-color: #ddd;
+}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #04AA6D;
+    color: white;
+}
+
+.text {
+    border: gray 2px dotted;
+    border-radius: 7px;
+    position: relative;
+    width: 100%;
+    padding: 10px;
+}
+
+.text:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.text .textTitle {
+    font-family: "Cunia";
+}
+
+.text .paragraph {
+    text-indent: 30px;
+}
+
+.text .paragraph .paragraphKeyword {
+    display: inline-block;
+    text-indent: 0px;
+}
+
+.text .paragraph span {
+    color: lightblue;
+}
+
+.text .keywordsContainer {
+    height: fit-content;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: 5px;
+}
+
+.text .keyWordsBox {
+    width: 140px;
+    border: lightskyblue 2px solid;
+    border-radius: 15px;
+    overflow: hidden;
+    padding: 7px;
+    background-color: white;
+}
+
+.text .keyWordsBox ol {
+    list-style-position: inside;
+}
+
+.text .keyWordsBox ol li {
+    margin: 2px;
+    font-size: 15px;
+}
+
+.text .allInfoWithText {
+    padding-right: 150px;
+}
+
+.text .keyWordsBox .keyWordsBoxTitle {
+    font-family: 'Kaushan Script';
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 4px;
+    line-height: 20px;
+}
+
+.quiz .roundedBox {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #04AA6D;
+    color: white;
+    font-weight: bold;
+    font-family: 'Kharabeesh';
+    transform: rotate(-30deg);
+    padding: 10px;
+    display: inline-block;
+    font-size: 20pt;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 7px;
+}
+
+.quizTitle {
+    font-family: 'Chalkboard SE';
+    font-size: 14pt;
+    margin: 25px 50px;
+
+}
+
+.quiz .choiceQuestion {
+    /*margin: 10px;
+    margin-top: 25px;*/
+}
+
+.quiz .options {
+    /*display: flex;
+    justify-content: space-around;*/
+    width: 100%;
+    padding-left: 110px;
+    padding-right: 20px;
+    /*padding-right: 40px;*/
+}
+
+.quiz .options .choice {
+    display: inline-block;
+    /*margin-left: 80px;*/
+    /*margin-right: 25%;*/
+    font-size: 16px;
+    color: rgb(165, 0, 0);
+    min-width: 160px;
+    font-family: 'futura';
+    text-indent: -22px;
+}
+
+.quiz .q {
+    font-size: 16px !important;
+}
+
+.quiz .options .choice .choiceNC {
+    position: relative;
+    top: 3px;
+}
+
+.quiz .options .choice .choiceN span {
+    color: white;
+    position: absolute;
+    left: 17px;
+
+}
+
+.quiz .options .choice .choiceN {
+    font-size: x-small;
+    background-color: red;
+    border-radius: 100%;
+    /*padding: 8px;*/
+    /*padding-left: 4px;*/
+    line-height: 12px;
+    text-align: center;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    font-family: 'Hind Siliguri';
+    font-weight: bold;
+    position: relative;
+    display: table;
+    /*bottom: 6.5px;*/
+    top: 1px;
+    left: 1px;
+    /*outline: 0.5px solid rgb(255, 255, 255);
+    box-shadow: 0px 0px 3px #eb67a0;*/
+}
+
+.quiz .options .firstTwo {}
+
+.quiz .options .secondTwo {
+    margin-top: 5px;
+}
+
+.quiz .Questions {}
+
+.quiz .Questions {
+    list-style: none;
+    counter-reset: my-awesome-counter;
+}
+
+.quiz li {
+    counter-increment: my-awesome-counter;
+    margin-left: 80px;
+    margin-right: 70px;
+}
+
+.quiz .Questions li::before {
+    content: counter(my-awesome-counter) ". ";
+    color: red;
+    font-weight: bold;
+    font-family: 'Kharabeesh';
+    font-size: 16px;
+    /*float: left;*/
+    position: absolute;
+    z-index: -1;
+    left: 3em;
+}
+
+.quiz .Questions .ar::before {
+    content: ". " counter(my-awesome-counter, arabic-indic);
+    color: red;
+    font-weight: bold;
+    font-family: 'Kharabeesh Font';
+    font-size: 16px;
+    /*float: left;*/
+    position: absolute;
+    z-index: -1;
+    right: 3.5em;
+    text-align: right;
+    direction: rtl;
+}
+
+.quiz .reading .paragraphs {
+    font-size: 12pt;
+    margin-left: 75px;
+    margin-right: 75px;
+    font-family: 'Helvetica Neue';
+}
+
+.quiz .reading .paragraph {
+    text-indent: 40px;
+    margin-top: 8px;
+}
+
+.dotsLine {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border: none;
+    border-top: dotted 2px rgb(70, 70, 70);
+}
+
+/* Dialogues Styles */
+.dialogue {
+    margin: 25px 50px;
+}
+
+.dialogue h4 {
+    font-family: 'Almarai';
+}
+
+.dialogue table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.dialogue th, .dialogue td {
+    border: 0px solid #ffffff;
+    text-align: left;
+    padding: 4px;
+}
+
+.dialogue .speaker {
+    font-family: 'Futura';
+}
+
+.dialogue .utterance {
+    font-family: 'Hind Siliguri';
+}
+
+.margin {
+    margin-left: 80px;
+    margin-right: 70px;
+}

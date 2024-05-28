@@ -1,0 +1,102 @@
+[
+    {
+        "question": "He no longer ............ as he used to do.",
+        "choices": [
+            "smoke",
+            "smokes",
+            "smoked",
+            "doesn't smoke"
+        ],
+        "correct_answer": "smoke"
+    },
+    {
+        "question": "He used to smoke but now he ............ .",
+        "choices": [
+            "isn't anymore",
+            "doesn't no longer",
+            "doesn't any longer",
+            "any longer doesn't"
+        ],
+        "correct_answer": "doesn't any longer"
+    },
+    {
+        "question": "He was used to smoking, but now he ............ .",
+        "choices": [
+            "is no longer",
+            "no longer is",
+            "does no longer",
+            "no longer does"
+        ],
+        "correct_answer": "no longer is"
+    },
+    {
+        "question": "A: Does he smoke? B: No, but he ............ .",
+        "choices": [
+            "is used to",
+            "is used to doing",
+            "used to do",
+            "used to be"
+        ],
+        "correct_answer": "is used to"
+    },
+    {
+        "question": "A: Is he used to smoking? B: No, but he ............ .",
+        "choices": [
+            "is used to",
+            "is used to doing",
+            "used to do",
+            "used to be"
+        ],
+        "correct_answer": "is used to doing"
+    },
+    {
+        "question": "A: ............ ? B: Yes, but he never smokes now.",
+        "choices": [
+            "Is he used to smoking",
+            "Does he get used to smoking",
+            "Did he use to smoke",
+            "Was he used to smoke"
+        ],
+        "correct_answer": "Is he used to smoking"
+    },
+    {
+        "question": "I wish you ............ your time last year.",
+        "choices": [
+            "wasted",
+            "didn't waste",
+            "had wasted",
+            "hadn't wasted"
+        ],
+        "correct_answer": "didn't waste"
+    },
+    {
+        "question": "............. to bed before 1 a.m.",
+        "choices": [
+            "Rarely do I go",
+            "I go rarely",
+            "Rarely I go",
+            "Rarely am I go"
+        ],
+        "correct_answer": "Rarely do I go"
+    },
+    {
+        "question": "He never ............ used to eating in class.",
+        "choices": [
+            "is",
+            "was",
+            "got",
+            "get"
+        ],
+        "correct_answer": "get"
+    },
+    {
+        "question": "It's a habit of ............ to drink a big glass of water when I get up every morning.",
+        "choices": [
+            "I",
+            "me",
+            "my",
+            "mine"
+        ],
+        "correct_answer": "I"
+    }
+]

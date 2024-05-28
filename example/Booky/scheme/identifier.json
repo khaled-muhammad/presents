@@ -1,0 +1,57 @@
+{
+    "doc_name": "Classwork",
+    "path": "/Users/doddy/apps/python/QZe/example/Booky/",
+    "files_periority": [
+        "Vocab1",
+        "VocabStudy15C",
+        "VocabStudy1",
+        "MiniTest1",
+        "Structure1",
+        "Vocab2",
+        "VocabStudy25C",
+        "VocabStudy2",
+        "MiniTest2",
+        "Structure2",
+        "novel",
+        "LanguageHints",
+        "AEOnV",
+        "AEOnS",
+        "test"
+    ],
+    "extended_files_names": {
+        "Vocab1": "Vocabulary on Lessons 1 & 2",
+        "VocabStudy15C": "Vocabulary Study on Lessons 1 & 2",
+        "VocabStudy1": null,
+        "MiniTest1": "Mini Test 1",
+        "Structure1": "Structure on Lessons 1 & 2",
+        "Vocab2": "Vocabulary on Lessons 3 & 4",
+        "VocabStudy25C": "Vocabulary Study on Lessons 3 & 4",
+        "VocabStudy2": null,
+        "MiniTest2": "Mini Test 2",
+        "Structure2": "Structure on Lessons 3 & 4",
+        "novel": "Novel Vocab",
+        "LanguageHints": "Exercise on Structure Hints",
+        "AEOnV": "Advanced Exercise on Vocab",
+        "AEOnS": "Advanced Exercise on Structure",
+        "test3": "General Exercise on the unit"
+    },
+    "excluded_files_names": [],
+    "test_scheme": [
+        [
+            "5choices",
+            "choices_five_options"
+        ],
+        [
+            "choices",
+            "choices"
+        ]
+    ],
+    "test_titles": {
+        "5choices": "Choose the TWO correct answers out of the FIVE options given:",
+        "choices": "Choose the correct answer:",
+        "dialogue": "Answer the following Dialogue:",
+        "comprehension": "Read the following passage, then answer the questions:",
+        "translation": "",
+        "writing": ""
+    }
+}

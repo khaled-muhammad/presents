@@ -1,0 +1,252 @@
+[
+    {
+        "question": "That man had his kidney ............ in his brother.",
+        "choices": [
+            "transplants",
+            "transplanted",
+            "transplant",
+            "transplanting"
+        ],
+        "correct_answer": "transplanted"
+    },
+    {
+        "question": "I went to the mechanic to have ............ .",
+        "choices": [
+            "repaired my car",
+            "my car repaired",
+            "my car repair",
+            "my car repairs"
+        ],
+        "correct_answer": "my car repaired"
+    },
+    {
+        "question": "Gulliver's Travels ............ a children's novel.",
+        "choices": [
+            "is",
+            "are",
+            "has",
+            "have"
+        ],
+        "correct_answer": "is"
+    },
+    {
+        "question": "We have studied English ............ 2010.",
+        "choices": [
+            "at",
+            "on",
+            "since",
+            "for"
+        ],
+        "correct_answer": "since"
+    },
+    {
+        "question": "I sleep well in ............ room.",
+        "choices": [
+            "own",
+            "an own",
+            "owning",
+            "my own"
+        ],
+        "correct_answer": "own"
+    },
+    {
+        "question": "............ . a teacher, I have the qualities and qualifications that make my students understand well.",
+        "choices": [
+            "As",
+            "Like",
+            "Since",
+            "When"
+        ],
+        "correct_answer": "As"
+    },
+    {
+        "question": "Rodayna has a cousin ............ Zamzam.",
+        "choices": [
+            "was called",
+            "called",
+            "is called",
+            "calling"
+        ],
+        "correct_answer": "called"
+    },
+    {
+        "question": "It was two years ............ he moved into that flat.",
+        "choices": [
+            "as",
+            "while",
+            "when",
+            "since"
+        ],
+        "correct_answer": "since"
+    },
+    {
+        "question": "What Mr Ashraf does ............ because he has been very ill recently.",
+        "choices": [
+            "is",
+            "are",
+            "has",
+            "have"
+        ],
+        "correct_answer": "is"
+    },
+    {
+        "question": "Mr Nasser is my ............ friend of them all.",
+        "choices": [
+            "the best",
+            "the better",
+            "better",
+            "best"
+        ],
+        "correct_answer": "best"
+    },
+    {
+        "question": "............ she was busy, she refused to help me.",
+        "choices": [
+            "Because of",
+            "On",
+            "As",
+            "During"
+        ],
+        "correct_answer": "As"
+    },
+    {
+        "question": "Last August, I went to Alexandria for the second time ............ 2015.",
+        "choices": [
+            "in",
+            "since",
+            "for",
+            "by"
+        ],
+        "correct_answer": "by"
+    },
+    {
+        "question": "I did the job well ............ agreed.",
+        "choices": [
+            "like",
+            "for",
+            "since",
+            "as"
+        ],
+        "correct_answer": "as"
+    },
+    {
+        "question": "We have the equipment ............ for our work.",
+        "choices": [
+            "needed",
+            "needing",
+            "need",
+            "needs"
+        ],
+        "correct_answer": "needed"
+    },
+    {
+        "question": "I have my blood pressure ............ every week.",
+        "choices": [
+            "check",
+            "checks",
+            "checked",
+            "to check"
+        ],
+        "correct_answer": "checked"
+    },
+    {
+        "question": "Ahmed hasn't gone out since he ............ home last night.",
+        "choices": [
+            "went",
+            "has gone",
+            "had gone",
+            "going"
+        ],
+        "correct_answer": "has gone"
+    },
+    {
+        "question": "............ own car is a KIA.",
+        "choices": [
+            "Him",
+            "His",
+            "He",
+            "Himself"
+        ],
+        "correct_answer": "His"
+    },
+    {
+        "question": "The last match was Salah's ............ game ever.",
+        "choices": [
+            "great",
+            "greater",
+            "greatest",
+            "the greatest"
+        ],
+        "correct_answer": "greatest"
+    },
+    {
+        "question": "I got a plumber ............ the water pump.",
+        "choices": [
+            "to fix",
+            "fixes",
+            "fixed",
+            "to fixing"
+        ],
+        "correct_answer": "fixed"
+    },
+    {
+        "question": "She left an hour ago. She hasn't returned ............ .",
+        "choices": [
+            "then",
+            "since then",
+            "already",
+            "just"
+        ],
+        "correct_answer": "since then"
+    },
+    {
+        "question": "I arrived home ............ mum was preparing lunch.",
+        "choices": [
+            "before",
+            "as",
+            "since",
+            "on"
+        ],
+        "correct_answer": "as"
+    },
+    {
+        "question": "I have my son ............ after the trees in our house's garden.",
+        "choices": [
+            "to look",
+            "look",
+            "looks",
+            "to looking"
+        ],
+        "correct_answer": "to look"
+    },
+    {
+        "question": "As ............ , ice is lighter than water.",
+        "choices": [
+            "know",
+            "knows",
+            "knew",
+            "known"
+        ],
+        "correct_answer": "known"
+    },
+    {
+        "question": "............. I was very tired, I didn't finish studying unit 2.",
+        "choices": [
+            "When",
+            "While",
+            "Since",
+            "Because of"
+        ],
+        "correct_answer": "Because of"
+    },
+    {
+        "question": "That isn't my tablet. My ............ is a SAMSUNG.",
+        "choices": [
+            "own",
+            "it",
+            "this",
+            "ones"
+        ],
+        "correct_answer": "own"
+    }
+]

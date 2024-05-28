@@ -1,0 +1,102 @@
+[
+    {
+        "question": "The ship ............ helped each other to control the situation well.",
+        "choices": [
+            "gang",
+            "crew",
+            "staff",
+            "team"
+        ],
+        "correct_answer": "crew"
+    },
+    {
+        "question": "The police found a ............ that helped them solve the crime.",
+        "choices": [
+            "glue",
+            "True",
+            "clue",
+            "flu"
+        ],
+        "correct_answer": "clue"
+    },
+    {
+        "question": "Unfortunately, the burglar ............ the house.",
+        "choices": [
+            "stole",
+            "took",
+            "robbed",
+            "guarded"
+        ],
+        "correct_answer": "robbed"
+    },
+    {
+        "question": "A ............ is the most important person in an organization.",
+        "choices": [
+            "head",
+            "crew",
+            "clerk",
+            "cleaner"
+        ],
+        "correct_answer": "head"
+    },
+    {
+        "question": "A/An ............ is someone whose job is to live in another person's house and do jobs for them, such as cleaning.",
+        "choices": [
+            "magistrate",
+            "officer",
+            "servant",
+            "interviewer"
+        ],
+        "correct_answer": "servant"
+    },
+    {
+        "question": "To ............ is to succeed in leaving a place when someone or something is trying to stop you.",
+        "choices": [
+            "rob",
+            "escape",
+            "guard",
+            "dare"
+        ],
+        "correct_answer": "escape"
+    },
+    {
+        "question": "A ............ is someone who decides if a person is guilty of less serious crimes in a court.",
+        "choices": [
+            "doctor",
+            "sailor",
+            "cook",
+            "magistrate"
+        ],
+        "correct_answer": "magistrate"
+    },
+    {
+        "question": "............ is a group of valuable things such as gold, silver, jewels, etc.",
+        "choices": [
+            "Treasure",
+            "Scar",
+            "Adventure",
+            "Head"
+        ],
+        "correct_answer": "Treasure"
+    },
+    {
+        "question": "A/An ............ is a piece of land completely surrounded by water.",
+        "choices": [
+            "beach",
+            "island",
+            "desert",
+            "inn"
+        ],
+        "correct_answer": "island"
+    },
+    {
+        "question": "A/An ............ is the mark (x or +) used on paper, to represent where something is, or where something should be.",
+        "choices": [
+            "equal",
+            "plus",
+            "cross",
+            "minus"
+        ],
+        "correct_answer": "cross"
+    }
+]

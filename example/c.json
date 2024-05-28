@@ -1,0 +1,51 @@
+{
+    "data": {
+        "passage": [
+            "Environmental conservation is vital for our planet's health and future generations' well-being. The natural world provides essential resources like clean air, water, and food. However, human activities such as deforestation and pollution have harmed the environment. Sustainable practices are necessary to mitigate these impacts. By conserving biodiversity and protecting habitats, we can maintain the balance of ecosystems that support life.",
+            "Green technologies are effective in environmental conservation. Renewable energy sources like solar, wind, and hydropower are sustainable alternatives to fossil fuels, which contribute to climate change. Advancements in recycling and waste management reduce pollution. It is good. Governments, businesses, and individuals must adopt eco-friendly practices to reduce carbon footprints and promote sustainability.",
+            "Education and awareness are crucial for environmental conservation. Informed people are more likely to take action to protect the environment. Schools, media, and community programs can spread knowledge and encourage environmental stewardship. Community involvement in conservation projects empowers individuals to contribute to their local environments. Collective action ensures a vibrant and habitable planet for future generations."
+        ],
+        "mcq": [
+            {
+                "question": "Why is environmental conservation important?",
+                "choices": [
+                    "a) To increase industrial production",
+                    "b) To maintain the health of our planet and future generations",
+                    "c) To promote tourism",
+                    "d) To reduce taxes"
+                ],
+                "correct_answer": "b) To maintain the health of our planet and future generations"
+            },
+            {
+                "question": "Which renewable energy sources are mentioned in the essay?",
+                "choices": [
+                    "a) Nuclear, wind, and coal",
+                    "b) Solar, wind, and hydropower",
+                    "c) Gasoline, solar, and nuclear",
+                    "d) Hydropower, coal, and wind"
+                ],
+                "correct_answer": "b) Solar, wind, and hydropower"
+            },
+            {
+                "question": "Which pronoun is underlined and bolded in the essay?",
+                "choices": [
+                    "a) It",
+                    "b) They",
+                    "c) He",
+                    "d) She"
+                ],
+                "correct_answer": "a) It"
+            }
+        ],
+        "open_ended": [
+            {
+                "question": "Why should societies adopt green technologies?",
+                "correct_answer": "Societies should adopt green technologies because they offer sustainable alternatives to fossil fuels, reducing carbon footprints and pollution. This helps mitigate climate change and promotes a more sustainable future."
+            },
+            {
+                "question": "How do education and awareness help environmental conservation?",
+                "correct_answer": "Education and awareness help by informing people about the environment's importance and the threats it faces. Informed individuals are more likely to take protective actions, and community involvement empowers contributions to local conservation efforts."
+            }
+        ]
+    }
+}

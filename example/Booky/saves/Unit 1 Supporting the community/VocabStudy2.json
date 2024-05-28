@@ -1,0 +1,152 @@
+[
+    {
+        "question": "The loss of his job ............ a negative impact on him.",
+        "choices": [
+            "had",
+            "took",
+            "provide",
+            "did"
+        ],
+        "correct_answer": "had"
+    },
+    {
+        "question": "We need to ............ more research into coronavirus.",
+        "choices": [
+            "go",
+            "do",
+            "get",
+            "leave"
+        ],
+        "correct_answer": "do"
+    },
+    {
+        "question": "Young men join the army after ............ school or university.",
+        "choices": [
+            "going",
+            "doing",
+            "getting",
+            "leaving"
+        ],
+        "correct_answer": "getting"
+    },
+    {
+        "question": "When I was young, I ............ missing when I was shopping with my mum.",
+        "choices": [
+            "went",
+            "did",
+            "got",
+            "left"
+        ],
+        "correct_answer": "went"
+    },
+    {
+        "question": "To ............ wild animals is a crime.",
+        "choices": [
+            "kill",
+            "kills",
+            "killing",
+            "killings"
+        ],
+        "correct_answer": "kill"
+    },
+    {
+        "question": "............. wild animals is a crime.",
+        "choices": [
+            "Kill",
+            "Kills",
+            "Killing",
+            "Killings"
+        ],
+        "correct_answer": "Killing"
+    },
+    {
+        "question": "The new wildlife law has helped reduce ............ among rare animals.",
+        "choices": [
+            "kill",
+            "kills",
+            "killing",
+            "killings"
+        ],
+        "correct_answer": "killings"
+    },
+    {
+        "question": "The Lion Guardians is an organization based ............ Kenya.",
+        "choices": [
+            "on",
+            "in",
+            "at",
+            "to"
+        ],
+        "correct_answer": "in"
+    },
+    {
+        "question": "This film is based ............ a true story.",
+        "choices": [
+            "in",
+            "on",
+            "of",
+            "with"
+        ],
+        "correct_answer": "on"
+    },
+    {
+        "question": "He succeeded in his life thanks ............ hard work.",
+        "choices": [
+            "for",
+            "to",
+            "from",
+            "about"
+        ],
+        "correct_answer": "to"
+    },
+    {
+        "question": "People don't drink as ............ as camels do.",
+        "choices": [
+            "long",
+            "well",
+            "much",
+            "soon"
+        ],
+        "correct_answer": "much"
+    },
+    {
+        "question": "Doing sport is part of my ............ activities.",
+        "choices": [
+            "angel",
+            "angle",
+            "everyday",
+            "every day"
+        ],
+        "correct_answer": "every day"
+    },
+    {
+        "question": "I do sport ............ .",
+        "choices": [
+            "angel",
+            "angle",
+            "everyday",
+            "every day"
+        ],
+        "correct_answer": "every day"
+    },
+    {
+        "question": "Finally, I heard ............ my brother in the USA. He sent me an email.",
+        "choices": [
+            "from",
+            "of",
+            "about",
+            "b & c"
+        ],
+        "correct_answer": "b & c"
+    },
+    {
+        "question": "I have just heard ............ your health problems.",
+        "choices": [
+            "from",
+            "of",
+            "about",
+            "b & c"
+        ],
+        "correct_answer": "b & c"
+    }
+]

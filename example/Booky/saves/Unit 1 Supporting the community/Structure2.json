@@ -1,0 +1,552 @@
+[
+    {
+        "question": "Leen usually ............ the 8 o'clock train to work.",
+        "choices": [
+            "has caught",
+            "is catching",
+            "catch",
+            "catches"
+        ],
+        "correct_answer": "catches"
+    },
+    {
+        "question": "Aya ............ late for work.",
+        "choices": [
+            "never is",
+            "is never",
+            "never has",
+            "has never"
+        ],
+        "correct_answer": "is never"
+    },
+    {
+        "question": "When ............ you usually finish studying your lessons?",
+        "choices": [
+            "are",
+            "have",
+            "do",
+            "does"
+        ],
+        "correct_answer": "does"
+    },
+    {
+        "question": "Omar ............ come to work late at all.",
+        "choices": [
+            "never",
+            "doesn't",
+            "don't",
+            "isn't"
+        ],
+        "correct_answer": "never"
+    },
+    {
+        "question": "Omar ............ comes to work late.",
+        "choices": [
+            "never",
+            "doesn't",
+            "don't",
+            "isn't"
+        ],
+        "correct_answer": "never"
+    },
+    {
+        "question": "I always ............ the piano after I come home from work.",
+        "choices": [
+            "plays",
+            "play",
+            "played",
+            "playing"
+        ],
+        "correct_answer": "play"
+    },
+    {
+        "question": "I always ............ the piano after I came home from work.",
+        "choices": [
+            "plays",
+            "play",
+            "played",
+            "playing"
+        ],
+        "correct_answer": "played"
+    },
+    {
+        "question": "He usually ............ very quickly, so we didn't understand him.",
+        "choices": [
+            "speaks",
+            "spoke",
+            "was spoken",
+            "speaking"
+        ],
+        "correct_answer": "speaks"
+    },
+    {
+        "question": "He usually ............ very quickly, so we don't understand him.",
+        "choices": [
+            "speaks",
+            "spoke",
+            "was spoken",
+            "speaking"
+        ],
+        "correct_answer": "speaking"
+    },
+    {
+        "question": "My friends often came to my birthday party and ............ me nice presents.",
+        "choices": [
+            "have given",
+            "were giving",
+            "give",
+            "gave"
+        ],
+        "correct_answer": "gave"
+    },
+    {
+        "question": "My friends often come to my birthday party and ............ me nice presents.",
+        "choices": [
+            "have given",
+            "were giving",
+            "give",
+            "gave"
+        ],
+        "correct_answer": "give"
+    },
+    {
+        "question": "When I was on holiday, I ............ tennis every day.",
+        "choices": [
+            "had played",
+            "have played",
+            "play",
+            "played"
+        ],
+        "correct_answer": "played"
+    },
+    {
+        "question": "When I am on holiday, I ............ tennis every day.",
+        "choices": [
+            "had played",
+            "have played",
+            "play",
+            "played"
+        ],
+        "correct_answer": "play"
+    },
+    {
+        "question": "Sama ............ an email to her friend but she has received no reply so far.",
+        "choices": [
+            "sends",
+            "is sent",
+            "sent",
+            "was sent"
+        ],
+        "correct_answer": "sends"
+    },
+    {
+        "question": "Rubbish ............ and burnt.",
+        "choices": [
+            "are collected",
+            "collected",
+            "collects",
+            "is collected"
+        ],
+        "correct_answer": "is collected"
+    },
+    {
+        "question": "He often ............ with me in English to become better at speaking.",
+        "choices": [
+            "is speaking",
+            "has spoken",
+            "spoke",
+            "speaks"
+        ],
+        "correct_answer": "speaks"
+    },
+    {
+        "question": "We ............ an interesting film last night.",
+        "choices": [
+            "watched",
+            "had watched",
+            "watch",
+            "have watched"
+        ],
+        "correct_answer": "watched"
+    },
+    {
+        "question": "Policemen ............ criminals and arrest them.",
+        "choices": [
+            "hunt",
+            "hunts",
+            "are hunting",
+            "hunted"
+        ],
+        "correct_answer": "hunt"
+    },
+    {
+        "question": "They ............ attend the conference last month.",
+        "choices": [
+            "wasn't",
+            "weren't",
+            "didn't",
+            "don't"
+        ],
+        "correct_answer": "weren't"
+    },
+    {
+        "question": "According to the timetable, the train ............ at 11 o'clock.",
+        "choices": [
+            "is arriving",
+            "arrives",
+            "is going to arrive",
+            "had arrived"
+        ],
+        "correct_answer": "arrives"
+    },
+    {
+        "question": "She ............ the newspaper every morning. It is a habit of hers.",
+        "choices": [
+            "is reading",
+            "has read",
+            "read",
+            "reads"
+        ],
+        "correct_answer": "reads"
+    },
+    {
+        "question": "She ............ the newspaper every morning. It was a habit of hers.",
+        "choices": [
+            "is reading",
+            "has read",
+            "read",
+            "reads"
+        ],
+        "correct_answer": "read"
+    },
+    {
+        "question": "What time ............ you usually arrive at school when you were a student?",
+        "choices": [
+            "do",
+            "would",
+            "did",
+            "does"
+        ],
+        "correct_answer": "did"
+    },
+    {
+        "question": "What time ............ you usually arrive at school when you take a taxi?",
+        "choices": [
+            "do",
+            "would",
+            "did",
+            "does"
+        ],
+        "correct_answer": "does"
+    },
+    {
+        "question": "My son ............ ambitious and he wants to study medicine.",
+        "choices": [
+            "is always",
+            "always is",
+            "doesn't always",
+            "isn't always"
+        ],
+        "correct_answer": "is always"
+    },
+    {
+        "question": "When I finished my work, I closed my office and ............ home.",
+        "choices": [
+            "return",
+            "returning",
+            "had returned",
+            "returned"
+        ],
+        "correct_answer": "returned"
+    },
+    {
+        "question": "His mother ............ his room door while he was studying his lessons.",
+        "choices": [
+            "opened",
+            "opening",
+            "was opening",
+            "opens"
+        ],
+        "correct_answer": "was opening"
+    },
+    {
+        "question": "The moon ............ around the earth.",
+        "choices": [
+            "has moved",
+            "will move",
+            "moves",
+            "moved"
+        ],
+        "correct_answer": "moves"
+    },
+    {
+        "question": "He phoned me once he ............ the message.",
+        "choices": [
+            "had read",
+            "will read",
+            "reads",
+            "read"
+        ],
+        "correct_answer": "read"
+    },
+    {
+        "question": "He will phone me once he ............ the message.",
+        "choices": [
+            "had read",
+            "will read",
+            "has read",
+            "read"
+        ],
+        "correct_answer": "has read"
+    },
+    {
+        "question": "............ I was twelve, my family moved into this flat.",
+        "choices": [
+            "While",
+            "When",
+            "During",
+            "As"
+        ],
+        "correct_answer": "When"
+    },
+    {
+        "question": "He ............ early.",
+        "choices": [
+            "rarely is",
+            "is rare",
+            "is rarely",
+            "rare is"
+        ],
+        "correct_answer": "is rarely"
+    },
+    {
+        "question": "He ............ up early.",
+        "choices": [
+            "rarely gets",
+            "gets rarely",
+            "get rarely",
+            "rarely get"
+        ],
+        "correct_answer": "rarely gets"
+    },
+    {
+        "question": "It hardly ............ in Egypt.",
+        "choices": [
+            "is raining",
+            "rains",
+            "have rained",
+            "raining"
+        ],
+        "correct_answer": "rains"
+    },
+    {
+        "question": "As a schoolboy, my uncle always ............ to school on foot.",
+        "choices": [
+            "gone",
+            "went",
+            "goes",
+            "will go"
+        ],
+        "correct_answer": "went"
+    },
+    {
+        "question": "Mum ............ by all family members.",
+        "choices": [
+            "is loving",
+            "is being loved",
+            "is loved",
+            "loves"
+        ],
+        "correct_answer": "is loved"
+    },
+    {
+        "question": "I'll phone you as soon as I............ my work.",
+        "choices": [
+            "finishes",
+            "finish",
+            "will finish",
+            "had finished"
+        ],
+        "correct_answer": "finishes"
+    },
+    {
+        "question": "We all ............ in Allah .",
+        "choices": [
+            "believe",
+            "believes",
+            "is believing",
+            "are believing"
+        ],
+        "correct_answer": "believe"
+    },
+    {
+        "question": "It is time we ............ home .",
+        "choices": [
+            "went",
+            "are going",
+            "go",
+            "have gone"
+        ],
+        "correct_answer": "go"
+    },
+    {
+        "question": "............. the email sent before the office was closed?",
+        "choices": [
+            "Are",
+            "Was",
+            "Had",
+            "Does"
+        ],
+        "correct_answer": "Was"
+    },
+    {
+        "question": "During his last holiday, Tamer ............ football every day.",
+        "choices": [
+            "is playing",
+            "played",
+            "plays",
+            "has played"
+        ],
+        "correct_answer": "played"
+    },
+    {
+        "question": "He ............ playing tennis.",
+        "choices": [
+            "use to",
+            "is used to",
+            "used to",
+            "was used"
+        ],
+        "correct_answer": "used to"
+    },
+    {
+        "question": "A: Have you seen her lately?",
+        "choices": [
+            "saw",
+            "had seen",
+            "have seen",
+            "was seeing"
+        ],
+        "correct_answer": "have seen"
+    },
+    {
+        "question": "All the information I read in this book ............ very valuable and useful.",
+        "choices": [
+            "is being",
+            "has",
+            "is",
+            "are"
+        ],
+        "correct_answer": "is"
+    },
+    {
+        "question": "Ten people ............ to have been injured in the crash.",
+        "choices": [
+            "had reported",
+            "have reported",
+            "were reported",
+            "were reporting"
+        ],
+        "correct_answer": "were reported"
+    },
+    {
+        "question": "Don't open the door until I ............ you.",
+        "choices": [
+            "told",
+            "had told",
+            "tell",
+            "was told"
+        ],
+        "correct_answer": "was told"
+    },
+    {
+        "question": "I am sure he ............ a Samsung laptop. He just doesn't want to lend it to you.",
+        "choices": [
+            "is having",
+            "is going to have",
+            "will have",
+            "has"
+        ],
+        "correct_answer": "is having"
+    },
+    {
+        "question": "When Salma read a story, she ............ interested in its moral.",
+        "choices": [
+            "is usually",
+            "was usually",
+            "usually is",
+            "usually was"
+        ],
+        "correct_answer": "usually is"
+    },
+    {
+        "question": "\"He used to work as a firefighter.\" This means ............ .",
+        "choices": [
+            "he is a firefighter",
+            "he works as a firefighter",
+            "he is no longer a firefighter",
+            "he never worked as a firefighter"
+        ],
+        "correct_answer": "he is no longer a firefighter"
+    },
+    {
+        "question": "\"I wish I were tall.\" What does this mean?",
+        "choices": [
+            "I am tall",
+            "I am not short",
+            "I used to be tall",
+            "I am not tall"
+        ],
+        "correct_answer": "I am not short"
+    },
+    {
+        "question": "\"It is time Omar paid me back my money.\" This means ............ .",
+        "choices": [
+            "Omar had returned my money",
+            "Omar hasn't returned my money",
+            "Omar returned my money",
+            "Omar has just returned my money"
+        ],
+        "correct_answer": "Omar hasn't returned my money"
+    },
+    {
+        "question": "\"I'd rather Sama hadn't used my cream yesterday.\" This means ............ .",
+        "choices": [
+            "Sama used my cream yesterday",
+            "Sama didn't use my cream yesterday",
+            "Sama asked to use my cream yesterday",
+            "Sama agreed to use my cream yesterday"
+        ],
+        "correct_answer": "Sama didn't use my cream yesterday"
+    },
+    {
+        "question": "\"Plants get their food from the sun\". This is a ............ .",
+        "choices": [
+            "present habit",
+            "past habit",
+            "future fact",
+            "fact"
+        ],
+        "correct_answer": "fact"
+    },
+    {
+        "question": "\"We take mid-year exams in January\". This is a ............ .",
+        "choices": [
+            "timetable",
+            "future fact",
+            "habit",
+            "hope"
+        ],
+        "correct_answer": "timetable"
+    },
+    {
+        "question": "\"I don't smoke heavily any longer.\" I mean that I ............ .",
+        "choices": [
+            "smoke heavily",
+            "used to be a heavy smoker",
+            "haven't stopped smoking",
+            "didn't use to smoke"
+        ],
+        "correct_answer": "haven't stopped smoking"
+    }
+]
